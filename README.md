@@ -111,7 +111,7 @@ Iteration 1: Random Centroids       Iteration 5: Centroid Shift        Iteration
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/laila-kz/k_means_clustering.git](https://github.com/laila-kz/k_means_clustering.git)
+git clone [https://github.com/laila-kz/K-means-Clustering-Implementation.git](https://github.com/laila-kz/K-means-Clustering-Implementation.git)
 cd k_means_clustering
 
 ```
